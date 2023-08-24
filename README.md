@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joylumi
 - 👀 My teammates know me as Steven on the F&A team here at Rokt.
-- 🤡 My teammates told me our github names doesnt matter and now here I am.
+- 🤡 Why is my username Joylumi? My teammates told me our github usernames doesnt matter and now here I am. 🤡
 - 🌱 I’m currently learning literally everything.
 
 <!---
